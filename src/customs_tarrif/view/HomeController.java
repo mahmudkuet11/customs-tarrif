@@ -29,7 +29,7 @@ public class HomeController implements Initializable {
 
     @FXML
     private void onAddNewItemClick(ActionEvent event) {
-
+        
     }
     
 }
